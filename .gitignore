@@ -1,0 +1,6 @@
+.git/
+
+.venv/
+
+best_vit_classification.pth
+best_vit_segmentation.pth
